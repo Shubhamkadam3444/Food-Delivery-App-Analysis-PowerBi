@@ -83,4 +83,4 @@ Improve delivery efficiency
 Support strategic decision-making
 
 📷 Dashboard Preview
-Shuo the dashboard looks like 
+Show the dashboard looks like - https://github.com/Shubhamkadam3444/Food-Delivery-App-Analysis-PowerBi/blob/main/Food%20Delivery%20Dashboard%20snap.png
